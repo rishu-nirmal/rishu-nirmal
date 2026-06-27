@@ -1,10 +1,11 @@
 # 💫 About Me:
-# Hi there, I'm Rishabh Nirmal !<br><br>.🔭 I'm currently working on making my Amazon-clone fully functional.<br>.🌱I'm currently learning Java-script.<br>.💬I like to learn new languages, making interactive websites.<br>.🎯Goal : Working as a professional.<br>.⚡Fun-fact : "I believe in the survival of the fittest, so i keep pushing myself to become better everyday".
+# Hi there, I'm Rishabh Nirmal !<br><br>.🔭 I'm currently working on making my Amazon-clone fully functional.<br>.🌱I'm currently learning Java-script.<br>.💬I like to learn new languages, making interactive websites.<br>.🎯Goal : Working as a professional.<br>.⚡Fun-fact : "I believe in the survival of the fittest, so I keep pushing myself to become better everyday".
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh Nirmal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rishabh Nirmal) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rishabh Nirmal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmalkartik42@gmail.com) 
-
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh-Nirmal)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Rishabh-Nirmal)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@RishabhNirmal)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
@@ -19,6 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rishu-nirmal&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=rishu-nirmal&color=blueviolet&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
